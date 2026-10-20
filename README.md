@@ -16,7 +16,7 @@ Saya baru bermula dalam dunia pembangunan perisian dan sedang meneroka teknologi
 ---
 
 ## 📫 Hubungi Saya
-- **LinkedIn:** [Profil LinkedIn Saya](https://linkedin.com)
+- **LinkedIn:** [Profil LinkedIn Saya]([https://linkedin.com](https://www.linkedin.com/in/qistina-aishah-052818366/))
 - **E-mel:** qistinaishah7@gmail.com
 <!--
 **qistnaishah/qistnaishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
